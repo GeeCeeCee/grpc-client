@@ -1,2 +1,3 @@
-# grpc-client
-Client consumption of grpc server
+# grpc-server
+
+This is a client implementation of GRPC
