@@ -6,7 +6,7 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 
-	"github.com/GeeCeeCee/grpc-client/person"
+	"github.com/GeeCeeCee/grpc-proto/person"
 )
 
 func main() {

@@ -1,3 +1,7 @@
+github.com/GeeCeeCee/grpc-proto v0.0.0-20230206081336-36f1b34dfc15 h1:W6xLyzo4Tw6PPLKmNcUiflB2ii85RJcYa/6dQHhCi/A=
+github.com/GeeCeeCee/grpc-proto v0.0.0-20230206081336-36f1b34dfc15/go.mod h1:JZiGNBhmzdhDWEOW1ClN63lq3cRd95kEtkuBywzn/Is=
+github.com/GeeCeeCee/grpc-server v0.0.0-20230206081955-83326e5f6e84 h1:rIna49A/MbC8CCjHS7Y7fjgMiY9rE6Do82ArmsEo7KU=
+github.com/GeeCeeCee/grpc-server v0.0.0-20230206081955-83326e5f6e84/go.mod h1:0aE8Q8LI7zt5Qb6Rjpk3INXDkwYJdKS5wQaB+n6qJbY=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
 github.com/golang/protobuf v1.5.2 h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw=
 github.com/golang/protobuf v1.5.2/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiuN0vRsmY=
